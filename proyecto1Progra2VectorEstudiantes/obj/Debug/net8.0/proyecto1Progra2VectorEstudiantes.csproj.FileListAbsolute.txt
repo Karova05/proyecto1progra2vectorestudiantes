@@ -1,0 +1,14 @@
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.AssemblyInfoInputs.cache
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.AssemblyInfo.cs
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\bin\Debug\net8.0\proyecto1Progra2VectorEstudiantes.exe
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\bin\Debug\net8.0\proyecto1Progra2VectorEstudiantes.deps.json
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\bin\Debug\net8.0\proyecto1Progra2VectorEstudiantes.runtimeconfig.json
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\bin\Debug\net8.0\proyecto1Progra2VectorEstudiantes.dll
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\bin\Debug\net8.0\proyecto1Progra2VectorEstudiantes.pdb
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.dll
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\refint\proyecto1Progra2VectorEstudiantes.dll
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.pdb
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.genruntimeconfig.cache
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\ref\proyecto1Progra2VectorEstudiantes.dll
