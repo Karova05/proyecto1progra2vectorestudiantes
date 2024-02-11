@@ -1,7 +1,40 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
+string[] nombre = new string[10];
+
+int[] cedula = new int[10];
+
+float[] promedio = new float[10];
+
+string[] condicion = new string[10];
+
+float[] notas = new float[10];
+
+
 int opcion = 0;
+
+void inicializar()
+
+{
+
+    for (int i = 0; i < nombre.Length; i++)
+
+    {
+
+        nombre[i] = "0";
+
+        cedula[i] = 0;
+
+        promedio[i] = 0.0f;
+
+        condicion[i] = "0";
+
+        notas[i] = 0.0f;
+
+    }
+
+}
 
 do
 {

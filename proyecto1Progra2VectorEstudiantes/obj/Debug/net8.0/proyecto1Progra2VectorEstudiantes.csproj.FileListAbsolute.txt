@@ -12,3 +12,4 @@ C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1
 C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.pdb
 C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.genruntimeconfig.cache
 C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\ref\proyecto1Progra2VectorEstudiantes.dll
+C:\Users\Karla Valverde\source\repos\proyecto1Progra2VectorEstudiantes\proyecto1Progra2VectorEstudiantes\obj\Debug\net8.0\proyecto1Progra2VectorEstudiantes.sourcelink.json
